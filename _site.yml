@@ -1,0 +1,16 @@
+name: "Statistical Inference - Course Project Part 2"
+navbar:
+  title: ""
+  left:
+    - text: "Overview"
+      href: Index.html
+    - text: "Analysis"
+      href: analysis.html
+    - text: "Conclusions"
+      href: conclusions.html
+      
+output:
+  html_document:
+    theme: united
+    highlight: textmate
+  

@@ -1,0 +1,16 @@
+---
+title: "Statistical Inference - Course Project Part 2"
+author: Yesica Jasive Buitrago Sosa
+date: Nov 11, 2021
+
+---
+
+## Overview
+
+This report aims to analyze the ToothGrowth data in the R datasets package. Per the course project instructions, the following items should occur:
+
+Load the ToothGrowth data and perform some basic exploratory data analyses
+Provide a basic summary of the data.
+Use confidence intervals and/or hypothesis tests to compare tooth growth by supp and dose (only use the techniques from class, even if thereâs other approaches worth considering).
+State your conclusions and the assumptions needed for your conclusions.
+

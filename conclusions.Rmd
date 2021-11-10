@@ -1,0 +1,17 @@
+---
+title: "Statistical Inference - Course Project Part 2"
+author: "Yesica Jasive Buitrago Sosa"
+date: "Nov 11, 2021"
+output: pdf_document
+---
+
+
+
+
+# Conclusions
+
+## Given the following assumptions:
+
+The sample is representative of the population
+The distribution of the sample means follows the Central Limit Theorem
+In reviewing our t-test analysis from above, we can conclude that supplement delivery method has no effect on tooth growth/length, however increased dosages do result in increased tooth length.
